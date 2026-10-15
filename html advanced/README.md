@@ -8,4 +8,4 @@ smileschool webpage is a project that will be an online platform that will be he
 5.FAQ section.
 
 <u>Image</u>
-![Smile Web Preview](smile.jpg)
+<img width="800" height="2066" alt="smile" src="https://github.com/user-attachments/assets/794aa282-5a63-4438-839f-28f1b3eb1f53" />
